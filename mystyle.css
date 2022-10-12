@@ -1,0 +1,31 @@
+body {
+    background-color: #E8F9FD ;
+    color: #2155CD;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+}
+
+#p-pic {
+    height: 275px;
+    width: 250px;
+    border-radius: 100%;
+}
+
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#description {
+    font-family: 'Silkscreen', cursive;
+}
